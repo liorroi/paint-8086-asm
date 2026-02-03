@@ -1,0 +1,21 @@
+
+proc setGraficM
+;===========================
+;description:this fanction get array on Dasg and put him on mouse Grafic Cursor 
+;input:starting of array in DASG 
+;outPut:Grafic cursor 
+;registered Used:none 
+proc SetGraficCube 
+;===========================
+;description:this fanction get number on Dasg and put him on mouse Grafic Cursor;betwean 1-8  
+;input:starting of array in DASG 
+;outPut:Grafic cursor 
+;registered Used:none 
+;===========================
+proc MOuseClick 
+;============================
+;description:push someting this fanction back the resul on stack 
+;input:push simething 
+;output:stack just pop it
+;registered Used:None 
+;============================
